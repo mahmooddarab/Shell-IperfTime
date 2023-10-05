@@ -3,7 +3,7 @@ IperfTime
 
 server
 -----------------------------------
-copy iperf-server.sh to server /n
+copy iperf-server.sh to server
 chmod +x iperf-server.sh
 ./iperf-server.sh
 
